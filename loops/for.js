@@ -5,5 +5,5 @@
 
 let fruits = ["apple","banana","mango","cherry"];
 for(let i=0; i<fruits.length; i++){
-    console.log("i love" + " " + fruits[i])
+    console.log("i eat" + " " + fruits[i] +" everyday.")
 }
