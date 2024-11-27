@@ -9,6 +9,6 @@
 // }
 
 let names = ["Sharmi","Bindu"];
-for(let i=0; i<names.length; i++){
+for(let i=0; i<=names.length; i++){
     console.log(names[i])
 }
