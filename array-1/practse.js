@@ -9,5 +9,5 @@ console.log(arrary1[0])
 for(let i=0; i< arrary1.length; i++){
     console.log(arrary1[i])
 }
-arrary1.push("elephant")
+console.log(arrary1.push("elephant")) //push method adds elemt at last and gves new length of array
 console.log(arrary1)
